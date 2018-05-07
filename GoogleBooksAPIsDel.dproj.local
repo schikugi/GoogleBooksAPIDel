@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/02 16:47:12.000.477,=C:\Users\shinji.chikugi\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/02 16:53:21.000.168,C:\Users\shinji.chikugi\ドキュメント\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\shinji.chikugi\ドキュメント\20180412_CPP_Tutorial\GoogleBooksAPI\Del\Unit1.fmx</Transaction>
+    <Transaction>2018/05/02 16:53:21.000.168,C:\Users\shinji.chikugi\ドキュメント\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\shinji.chikugi\ドキュメント\20180412_CPP_Tutorial\GoogleBooksAPI\Del\Unit1.pas</Transaction>
+    <Transaction>2018/05/02 17:02:21.000.207,C:\Users\shinji.chikugi\ドキュメント\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\shinji.chikugi\ドキュメント\20180412_CPP_Tutorial\GoogleBooksAPI\Del\GoogleBooksAPIsDel.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<Pjpmschikugi1 iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
